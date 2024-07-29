@@ -2992,3 +2992,7 @@ blockquote {
     padding-bottom: 40px;
     margin-bottom: 40px;
 }
+.web-link:hover {
+    background: #04b4e0;
+    color: #fff;
+}
