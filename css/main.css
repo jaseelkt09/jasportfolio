@@ -2984,13 +2984,13 @@ blockquote {
     font-weight: 600;
     color: #04b4e0;
     position: relative;
-    top: 20px;
+    top: 30px;
     background: #fff;
 }
 .portfolio-block .item {
     border-bottom: 2px solid #f1f1f1;
-    padding-bottom: 40px;
-    margin-bottom: 40px;
+    padding-bottom: 60px;
+    margin-bottom: 25px;
 }
 .web-link:hover {
     background: #04b4e0;
