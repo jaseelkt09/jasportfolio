@@ -2977,3 +2977,13 @@ blockquote {
     border-radius: 10px;
     box-shadow: 0 2px 10px 0px rgb(0 0 0 / 10%);
 }
+.web-link {
+    border: 2px solid #04b4e0;
+    border-radius: 50px;
+    padding: 4px 20px;
+    font-weight: 600;
+    color: #04b4e0;
+    position: relative;
+    top: 15px;
+    background: #fff;
+}
